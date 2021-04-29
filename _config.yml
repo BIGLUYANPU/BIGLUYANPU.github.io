@@ -13,13 +13,13 @@ head:
     open_graph:
         # Page title (og:title) (optional)
         # You should leave this blank for most of the time
-        title: 辣椒の酱
+        title: 好想大吃一顿
         # Page type (og:type) (optional)
         # You should leave this blank for most of the time
         type: blog
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
-        url: https://removeif.github.io/
+        url: https://a-big-meal-blog.gitee.io
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
         image: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png
