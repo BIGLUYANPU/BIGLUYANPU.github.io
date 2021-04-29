@@ -47,7 +47,7 @@
     "eslint-config-hexo": "^4.1.0",
     "eslint-plugin-json": "^2.0.1",
     "eslint-plugin-react": "^7.17.0",
-    "hexo": "^5.0.2",
+    "hexo": "^5.4.0",
     "hexo-log": "^2.0.0",
     "hexo-pagination": "^1.0.0",
     "hexo-renderer-inferno": "^0.1.3",

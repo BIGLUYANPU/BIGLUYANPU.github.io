@@ -58,7 +58,7 @@
 v11.1.0
 192:hexo-theme-icarus-removeif xx$ npm -v
 6.4.1
-```  
+```
 #### 在博客目录下clone主题代码
 ```jshelllanguage
 git clone https://github.com/removeif/hexo-theme-amazing.git themes/amazing
@@ -83,8 +83,10 @@ navbar:
         关于: /about
 ```
 #### 1.热门推荐，最新评论：
+
 **热门推荐仅支持gitalk，最新评论支持gitalk & valine**
 对应主题中的`_config.yml`要开启如下配置（此为gitalk，valine配置文件中也有示例），xxx换成自己的，否则无效。**对于gitalk部署博客后需要到相应文章评论处点击初始化issue评论，完成评论的初始化。**
+
 ```yaml
 comment:
     type: gitalk
@@ -320,6 +322,7 @@ $ hexo d #推到远程
 安装依赖包（只需要执行一次），以后修改了代码 只需要执行后面几条就好。  
 
 ### 写在后面
+
 如果你有问题请反馈: [issues](https://github.com/removeif/hexo-theme-amazing/issues) （请务必先于issues中寻找答案）  
 如果你喜欢该主题: [star](https://github.com/removeif/hexo-theme-amazing)  
 如果你想定制主题: [fork](https://github.com/removeif/hexo-theme-amazing) 
