@@ -19,7 +19,7 @@ head:
         type: blog
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
-        url: https://big-meal.github.io/
+        url: https://bigluyanpu.github.io/
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
         image: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png
