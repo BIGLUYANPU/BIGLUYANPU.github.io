@@ -102,8 +102,9 @@ theme: amazing
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-
+  type: git
+  repo: https://github.com/BIGLUYANPU/BIGLUYANPU.git
+  branch: master
 
 feed:
   type: atom
